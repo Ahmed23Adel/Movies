@@ -11,6 +11,8 @@ sample from demo:
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/69484554/135718205-945d0cc0-8716-4fe7-bb96-03f31a0e68a0.gif)
 
+Google play: https://play.google.com/store/apps/details?id=com.wellmax8.project_movies
+
 
 Technologies used:</br>
 1-I used Jave for developing that app</br>
