@@ -7,6 +7,11 @@ we tried to provide the best user experience associated with great user interfac
 Demo:
 https://www.youtube.com/watch?v=z91tG3jmu_k 
 
+sample from demo:
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/69484554/135718205-945d0cc0-8716-4fe7-bb96-03f31a0e68a0.gif)
+
+
 Technologies used:</br>
 1-I used Jave for developing that app</br>
 2- volley, and retrofit for calling different apis</br>
