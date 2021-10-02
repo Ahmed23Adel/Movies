@@ -4,10 +4,8 @@ You can add any movie to your favorite list, or I want to watch list or watch li
 
 we tried to provide the best user experience associated with great user interface, smooth animation. </br>
 
-Sample:
-
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/69484554/135713601-ed9938be-3d16-49d8-9ac8-78a25dc013ca.gif)
+Demo:
+https://www.youtube.com/watch?v=z91tG3jmu_k 
 
 Technologies used:</br>
 1-I used Jave for developing that app</br>
